@@ -1,0 +1,28 @@
+{
+    "name": "Rabbits",
+    "website": "https://rbits.xyz",
+    "description": "Embark on an NFT gaming adventure with RBITS",
+    "explorer": "https://etherscan.io/token/0xa6ebcc4c5c0316191ea95bfc90f591df23a03dfe",
+    "type": "ERC20",
+    "symbol": "RBITS",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xa6EbCC4C5C0316191eA95BFC90F591DF23A03DFE",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/rbits-dev"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/RBitsOfficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/rbitsportal"
+        }
+    ],
+    "tags": [
+         "gamefi", "memes", "nft"
+     ]
+}
